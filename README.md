@@ -7,7 +7,7 @@ This microservice provides real-time messaging functionality using WebSocket and
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/arindam/mongodb-websocket-microservice.git
+   git clone https://github.com/arindam923/mongodb-websocket-microservice.git
     ```
    
 2. **Create a .env file in the project root and set your MongoDB URI:**
